@@ -5,5 +5,5 @@ use Yii;
 
 class Message extends BaseMessage
 {
-    
+
 }
